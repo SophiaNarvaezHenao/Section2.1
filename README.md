@@ -8,11 +8,7 @@ FlowCahrt
 Class diagram
 
 
-<img width="701" height="811" alt="BankAccountClasses" src="https://github.com/user-attachments/assets/8d95f5d5-e745-4112-b270-f363a723e4df" />
-
-
-
-
+<img width="701" height="811" alt="BankAccountClasses" src="https://github.com/user-attachments/assets/d6d1842e-80cd-487f-b421-41526c66d73a" />
 
 
 
