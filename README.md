@@ -5,6 +5,15 @@ FlowCahrt
 
 
 
+Class diagram
+
+
+<img width="701" height="811" alt="BankAccountClasses" src="https://github.com/user-attachments/assets/8d95f5d5-e745-4112-b270-f363a723e4df" />
+
+
+
+
+
 
 
 
